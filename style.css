@@ -1,0 +1,17 @@
+body {
+    background-color: #F08080;
+    font-family:sans-serif;
+}
+header, footer{
+    background-color:DarkSeaGreen;
+}
+main h1 {
+    text-align:center;
+}
+
+footer {
+    border:1px solid darkseagreen;
+    border-radius:10px;
+}
+    
+
